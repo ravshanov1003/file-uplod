@@ -1,0 +1,20 @@
+{
+    "dependencies": {
+        "express": "^4.17.1",
+        "multer": "^1.4.3",
+        "npm": "^7.24.0"
+    },
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "name": "file-upload",
+    "version": "1.0.0",
+    "main": "server.js",
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}
